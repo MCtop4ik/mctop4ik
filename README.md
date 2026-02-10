@@ -1,8 +1,8 @@
 ## I am Senya from ITMO 👋
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mctop4ik&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mctop4ik&theme=nord_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mctop4ik&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mctop4ik&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mctop4ik&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mctop4ik&theme=nord_dark)
 <!--
 **MCtop4ik/mctop4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
