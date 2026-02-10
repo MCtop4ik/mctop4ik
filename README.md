@@ -1,5 +1,5 @@
 ## I am Senya from ITMO 👋
-
+![MCtop4ik's GitHub stats](https://github-readme-stats.vercel.app/api?username=mctop4ik&show_icons=true&theme=radical)
 <!--
 **MCtop4ik/mctop4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
