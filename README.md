@@ -1,9 +1,6 @@
 ## I am Senya from ITMO 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mctop4ik&theme=nord_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mctop4ik&theme=nord_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mctop4ik&theme=nord_dark&exclude=Java)
-
 ### My Coding activity(since 1 March 2026)
 ![](https://heatmap.shymike.dev/?id=29451&timezone=UTC)
 ### On what I write since Spring 2026
