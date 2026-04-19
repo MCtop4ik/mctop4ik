@@ -1,4 +1,4 @@
-## I am Senya 👋
+![](https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?bannerText=I+am+Senya+%F0%9F%91%8B.+Fullstack+Dev.&height=200&width=1800)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mctop4ik&theme=nord_dark)
 
 ## My skills
