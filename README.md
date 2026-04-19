@@ -1,4 +1,4 @@
-## I am Senya from ITMO 👋
+## I am Senya 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mctop4ik&theme=nord_dark)
 
 ## My skills
