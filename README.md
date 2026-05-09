@@ -30,3 +30,6 @@
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs3.svg) 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg) 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg)
+
+## Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
