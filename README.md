@@ -33,3 +33,5 @@
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte1.svg)
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Cookie God](https://zane-nostalgia.kiyo-n-zane.com/scenes/meteors/api?bannerText=subscribe+for+a+cookie+%3A%29+%F0%9F%8D%AA&height=200&color=%23f09de5&density=8&geoSeed=RYgoXDjaYn)
