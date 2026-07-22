@@ -9,7 +9,8 @@
 )
 
 ## My skills
-### Nowadays I am C++ developer
+### Nowadays I am Rust & C++ developer
+![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg) 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg) 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian3.svg)
