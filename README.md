@@ -3,10 +3,13 @@
 ## My Coding activity
 ![](https://heatmap.shymike.dev/?id=29451&timezone=UTC)
 
-## On what I write since Spring 2026
+## On what I write
 ![{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
 ](https://github-readme-stats.hackclub.dev/api/wakatime?username=29451&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 )
+
+## My statistics is open
+![Hackatime](https://hackatime.hackclub.com/@senya)
 
 ## My skills
 ### Nowadays I am Rust & C++ developer
