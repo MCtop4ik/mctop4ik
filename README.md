@@ -8,8 +8,8 @@
 ](https://github-readme-stats.hackclub.dev/api/wakatime?username=29451&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 )
 
-## My statistics is open
-![Hackatime](https://hackatime.hackclub.com/@senya)
+## My stats always open
+https://hackatime.hackclub.com/@senya
 
 ## My skills
 ### Nowadays I am Rust & C++ developer
