@@ -3,6 +3,10 @@
 <!-- ## My Coding activity
 ![](https://heatmap.shymike.dev/?id=29451&timezone=UTC) Dont work, this badge dead-->
 
+
+> [!IMPORTANT]
+> **No to vibe coding. No to agent coding. No to AI. No to slop. Marketing cannot fool us. Follow NoAI movement :hugs:**
+
 ## On what I write
 ![{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
 ](https://github-readme-stats.hackclub.dev/api/wakatime?username=29451&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
