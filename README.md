@@ -8,9 +8,6 @@
 ](https://github-readme-stats.hackclub.dev/api/wakatime?username=29451&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 )
 
-## My stats always open
-https://hackatime.hackclub.com/@senya
-
 ## My skills
 ### Nowadays I am Rust & C++ developer
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Rust/rust3.svg)
@@ -35,6 +32,10 @@ https://hackatime.hackclub.com/@senya
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg) 
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Vue/vue2.svg)
 ![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Svelte/svelte1.svg)
+
+## My stats always open
+https://hackatime.hackclub.com/@senya
+
 ## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
