@@ -1,7 +1,7 @@
 ![](https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?bannerText=I+am+Senya+%F0%9F%91%8B.+Fullstack+Dev.&height=200&width=1800)
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mctop4ik&theme=nord_dark) -->
-## My Coding activity
-![](https://heatmap.shymike.dev/?id=29451&timezone=UTC)
+<!-- ## My Coding activity
+![](https://heatmap.shymike.dev/?id=29451&timezone=UTC) Dont work, this badge dead-->
 
 ## On what I write
 ![{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
